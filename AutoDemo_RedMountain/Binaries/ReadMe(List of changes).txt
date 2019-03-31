@@ -8,6 +8,7 @@ Objects
 -The spiked ball on the jailed ghosts uses a different texture around the spikes.
 -The zipline machine uses different textures for the bottom pieces.
 -The animations for the zipline machines are slightly different.
+-The Fireballs that erupt out of the ground now have an animation that uses otherwise unused textures. This is difficult to see in normal gameplay, so pause if you want to see it clearly.
 -A ghost enemy was removed completely from the final game. In this mod, its model, textures, and animations are not custom, but its coding and behavior are. It had no coding in the Autodemo.
 -A smaller, different hammer object is present in the Autodemo's files (and was removed completely in the final game), but has no coding. Its models have been recycled in a new, custom object present in Knuckles's layout in the "Complete Mode" layouts.
 -The green fences placed in Sonic's layouts were placed with a bigger fence model in mind. This bigger version of the fence is present in the Autodemo (and was removed completely in the final game), but has no coding. By default, when playing the level as Sonic, the green fences will use this model. Their collision has been adjusted accordingly.
